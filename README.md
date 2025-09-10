@@ -13,7 +13,7 @@ The patch is **ready to use**. Follow these steps:
 3. Open the software:
    - Open `hamadrys.scd` in SuperCollider.
    - Open `hamadrys.toe` in TouchDesigner.
-4. **Fix the sample path** in SuperCollider:
+4. Fix the sample path in SuperCollider:
    - Locate `cpac.wav` inside `hamadrys.scd`.
    - Update the path to match your local location of the sample.
 5. Run the patch:
