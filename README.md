@@ -16,7 +16,10 @@ The patch is **ready to use**. Follow these steps:
 4. Fix the sample path in SuperCollider:
    - Locate `cpac.wav` inside `hamadrys.scd`.
    - Update the path to match your local location of the sample.
-5. Run the patch:
+5. Fix the tree path in Touchdesigner:
+   - Locate `treelungs.obj`.
+   - Update the path to match your local location of the object.
+6. Run the patch:
    - Start the SuperCollider code.
    - Launch TouchDesigner.
    - Audio and visuals will respond in real-time via OSC.
