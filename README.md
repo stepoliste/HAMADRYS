@@ -44,5 +44,5 @@ The patch is **ready to use**. Follow these steps:
 
 ## Links
 
-- Demo video: [https://youtube.com/yourvideo](https://youtube.com/yourvideo)  
+- Demo video: [[https://youtube.com/yourvideo](https://youtube.com/yourvideo](https://youtu.be/zJB9eDWm9mI))  
 - Presentation slides: [https://linktopresentation.com](https://linktopresentation.com)
